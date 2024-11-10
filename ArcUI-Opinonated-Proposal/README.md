@@ -2,7 +2,7 @@
 
 Arc inspired UI for the Zen Browser with opinonated changes.
 
-![image](https://raw.githubusercontent.com/dominiq-eu/zen-themes/refs/heads/main/ArcUI-Opinonated-Proposal/Preview.png)
+![image](https://raw.githubusercontent.com/dominiq-eu/zen-themes/refs/heads/main/ArcUI-Opinonated-Proposal/preview-screenshot.png)
 
 ## Description
 
