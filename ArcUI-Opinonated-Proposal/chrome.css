@@ -367,21 +367,12 @@
   }
   #urlbar-container:hover #page-action-buttons,
   #urlbar-container:hover #tracking-protection-icon-container,
-  .urlbar-page-action:has([open="true"]) {
+  #page-action-buttons:has(hbox[open="true"]),
+  #tracking-protection-icon-container:has(#urlbar-container:hover),
+  #tracking-protection-icon-container[open="true"] {
     display: flex;
   }
-  #urlbar-container {
-    position: relative;
-  }
-  #page-action-buttons {
-    position: absolute;
-    align-self: center;
-    right: 28px;
-    border-radius: 6px;
-    background: var(--zen-colors-border) !important;
-  }
   #tracking-protection-icon-container {
-    right: 0px;
     align-self: center;
   }
 
