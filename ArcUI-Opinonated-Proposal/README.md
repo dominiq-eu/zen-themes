@@ -48,3 +48,7 @@ What I want to incorporate next is inspired by:
 - https://github.com/AmirhBeigi/zen-floating-statusbar/
 - https://github.com/JLBlk/Zen-Themes/tree/main/SuperPins
 - ...and my own experience.
+
+Known Bugs:
+
+- Animations for the panels are disabled
